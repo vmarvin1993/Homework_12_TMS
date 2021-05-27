@@ -1,0 +1,26 @@
+doum65432187- the document is not valid (Reason: Length < 15 symbols and (or) does not start with (docnum)
+ Document name is  - docnum876543219
+ Document name is  - docnum111111111
+ Document name is  - docnum654321987
+docnum65487- the document is not valid (Reason: Length < 15 symbols and (or) does not start with (docnum)
+docnum98321- the document is not valid (Reason: Length < 15 symbols and (or) does not start with (docnum)
+ Document name is  - docnum123456789
+docum6543987- the document is not valid (Reason: Length < 15 symbols and (or) does not start with (docnum)
+dnum762187- the document is not valid (Reason: Length < 15 symbols and (or) does not start with (docnum)
+docnu65432198- the document is not valid (Reason: Length < 15 symbols and (or) does not start with (docnum)
+ Document name is  - docnum000000000
+ Document name is  - docnum984861321
+dnum762187- the document is not valid (Reason: Length < 15 symbols and (or) does not start with (docnum)
+docnum87151656543219- the document is not valid (Reason: Length < 15 symbols and (or) does not start with (docnum)
+docnum65432221987- the document is not valid (Reason: Length < 15 symbols and (or) does not start with (docnum)
+doum65432187- the document is not valid (Reason: Length < 15 symbols and (or) does not start with (docnum)
+ Document name is  - docnum876543219
+ Document name is  - docnum111111111
+ Document name is  - docnum654321987
+docnum65487- the document is not valid (Reason: Length < 15 symbols and (or) does not start with (docnum)
+ Document name is  - docnum184589498
+docnum98321- the document is not valid (Reason: Length < 15 symbols and (or) does not start with (docnum)
+ Document name is  - docnum123456789
+docum6543987- the document is not valid (Reason: Length < 15 symbols and (or) does not start with (docnum)
+ Document name is  - docnum777777777
+docnu65432198- the document is not valid (Reason: Length < 15 symbols and (or) does not start with (docnum)
